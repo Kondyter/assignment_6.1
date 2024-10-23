@@ -6,4 +6,4 @@ def s_sum (a, b) -> float:
     print(f"Sum: {s}")
     print(f"Differetn: {d}")
     print(f"Sum_s: {ss}")
-    print(f"Divid: "{dd})
+    print(f"Divid: {dd}")
